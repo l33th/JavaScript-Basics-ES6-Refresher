@@ -1,9 +1,0 @@
-# Running the code
-
-# Make sure you have nodejs installed.  For help, go to nodejs.org
-
-	* Clone or download the code
-		navigate into the cloned folder or open up a terminal in the cloned folder
-		run the code with node
-		example:
-			node 1-Variables.js
