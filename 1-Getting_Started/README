@@ -1,0 +1,8 @@
+# Make sure you have nodejs installed before running the program
+# Running the code
+
+* Open the html file in your browser, right click in the browser and choose the 'Inspect Element' option, then click on the 'console' option to see the output
+
+	Download or clone the repository
+	cd into the folder where the code is
+	run 'node index.js' (without the quotes)
