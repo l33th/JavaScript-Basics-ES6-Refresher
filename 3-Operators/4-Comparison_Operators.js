@@ -6,6 +6,6 @@ console.log(x >= 1);
 console.log(x < 1);
 console.log(x <= 1);
 
-// Equality
+// Equality Operators
 console.log(x === 1);
 console.log(x !== 1);
